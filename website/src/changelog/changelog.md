@@ -11,8 +11,15 @@ toc_max_heading_level: 2
 
 - Feature: 提升已加载的适配器日志等级 [@yanyongyu](https://github.com/yanyongyu) ([#3110](https://github.com/nonebot/nonebot2/pull/3110))
 
+### 🐛 Bug 修复
+
+- Fix: 屏蔽 pydantic 2.10.0 [@yanyongyu](https://github.com/yanyongyu) ([#3137](https://github.com/nonebot/nonebot2/pull/3137))
+
 ### 📝 文档
 
+- Docs: 添加 pytest-asyncio 配置 [@yanyongyu](https://github.com/yanyongyu) ([#3136](https://github.com/nonebot/nonebot2/pull/3136))
+- Docs: 移除侧栏遮罩及启用构建加速 [@StarHeartHunt](https://github.com/StarHeartHunt) ([#3135](https://github.com/nonebot/nonebot2/pull/3135))
+- Docs: 添加 Mail 适配器说明 [@mobyw](https://github.com/mobyw) ([#3134](https://github.com/nonebot/nonebot2/pull/3134))
 - Docs: 修复 wwads 造成的 client 水合不匹配 [@StarHeartHunt](https://github.com/StarHeartHunt) ([#3106](https://github.com/nonebot/nonebot2/pull/3106))
 - Docs: 修复 wwads [@StarHeartHunt](https://github.com/StarHeartHunt) ([#3105](https://github.com/nonebot/nonebot2/pull/3105))
 - Docs: 修复侧边栏折叠状态问题 [@StarHeartHunt](https://github.com/StarHeartHunt) ([#3101](https://github.com/nonebot/nonebot2/pull/3101))
@@ -26,6 +33,8 @@ toc_max_heading_level: 2
 
 ### 🍻 插件发布
 
+- Plugin: nonebot-plugin-api-scheduler [@noneflow](https://github.com/noneflow) ([#3133](https://github.com/nonebot/nonebot2/pull/3133))
+- Plugin: nb商店插件安装器web版 [@noneflow](https://github.com/noneflow) ([#3126](https://github.com/nonebot/nonebot2/pull/3126))
 - Plugin: 恩情课文 [@noneflow](https://github.com/noneflow) ([#3123](https://github.com/nonebot/nonebot2/pull/3123))
 - Plugin: 自动点赞订阅赞 [@noneflow](https://github.com/noneflow) ([#3103](https://github.com/nonebot/nonebot2/pull/3103))
 - Plugin: 违禁词撤回 [@noneflow](https://github.com/noneflow) ([#3117](https://github.com/nonebot/nonebot2/pull/3117))
